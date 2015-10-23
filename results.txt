@@ -1,0 +1,6 @@
+Oscar	 	Martinez		71.83
+Maria	 	Riparo		78.93
+Ave	 	Gonzalez		80.27
+Maricor	 	Pangalan		83.1
+Josiah	 	Pemberton		77.17
+Highest: Maricor Pangalan
